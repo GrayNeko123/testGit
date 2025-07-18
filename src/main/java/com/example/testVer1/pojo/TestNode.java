@@ -12,6 +12,6 @@ import lombok.NoArgsConstructor;
 @Builder
 public class TestNode {
 
-    @TestAnnotation("2")
+    @TestAnnotation("3")
     private String name;
 }
